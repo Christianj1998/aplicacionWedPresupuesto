@@ -1,5 +1,6 @@
 # Notas
-Este es el repositorio inicial de mi proyecto
+de prueba conflictos en git
+
 
 
 
